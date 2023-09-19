@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2015",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ],
+    [
+      "Engineering",
+      "Ocean Engineering",
+      "Hydrodynamics"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ]
+  ],
+  "legacy_uid": "120ab78d-e58b-dd65-8cd8-9c8153bb404f",
+  "instructors": {
+    "content": [
+      "55a27b97-8559-551d-a7b7-1110d171d6c2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a1736dff-b564-485d-6115-d3694f0dfb3c",
+    "website": "2-29-numerical-fluid-mechanics-spring-2015"
+  },
+  "course_title": "Numerical Fluid Mechanics",
+  "course_description": "This course is an introduction to numerical methods and MATLAB\u00ae: Errors, condition numbers and roots of equations. Topics covered include Navier-Stokes; direct and iterative methods for linear systems; finite differences for elliptic, parabolic and hyperbolic equations; Fourier decomposition, error analysis and stability; high-order and compact finite-differences; finite volume methods; time marching methods; Navier-Stokes solvers; grid generation; finite volumes on complex geometries; finite element methods; spectral methods; boundary element and panel methods; turbulent flows; boundary layers; and Lagrangian coherent structures (LCSs).\n\nProf. Pierre Lermusiaux is very grateful to the teaching assistants Dr. Matt Ueckermann, Dr. Tapovan Lolla, Mr. Jing Lin, and Mr. Arpit Agarwal for their contributions to the course over the years.",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.29",
+  "course_image_thumbnail": {
+    "content": "278e5b6d-201b-6894-8101-d58102713f6e",
+    "website": "2-29-numerical-fluid-mechanics-spring-2015"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Exams",
+    "Projects",
+    "Programming Assignments"
+  ],
+  "site_uid": "9320c558-7318-4856-8e39-0527ed9886a5",
+  "site_short_id": "2.29-spring-2015",
+  "title": "Course Metadata"
+}
